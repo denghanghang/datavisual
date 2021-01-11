@@ -1,0 +1,21 @@
+{
+  "name": "SmartScreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0",
+    "lodash": "^4.17.20",
+    "require-directory": "^2.1.1",
+    "validator": "^13.5.2"
+  }
+}
