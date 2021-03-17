@@ -1,1 +1,0 @@
-Caahet data visual
